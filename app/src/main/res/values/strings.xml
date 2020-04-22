@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SQLiteReclerView</string>
+    <string name="create_database">Create Database</string>
+    <string name="enter_the_name_here">enter the name here</string>
+    <string name="enter_your_address_here">Enter your Address here</string>
+    <string name="add_values_into_db">Add Values into DB</string>
+    <string name="get_values">Get values</string>
+    <string name="namw">Namw</string>
+    <string name="some_dummy_address">Some Dummy address</string>
+</resources>
